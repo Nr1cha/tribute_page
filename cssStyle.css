@@ -34,11 +34,8 @@ h2 {
 
 .tablequotes {
   text-align: center;
-  /*this will align the content in the center of the page*/
   width: 60%;
-  /*this will control the horizontle amount accross the page*/
   margin: auto;
-  /*this will evenly distribute the margin on all sides of the page*/
   box-shadow: lightgrey 1px 1px 5px;
   background-color: #dddddd;
 }
