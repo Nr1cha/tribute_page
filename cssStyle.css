@@ -16,7 +16,7 @@
 
 .mendela {
   display: block;
-  margin: auto;
+  margin: 20px auto;
   max-width: 50%;
   max-height: 50%;
   padding-top: 20px;
@@ -26,8 +26,8 @@
   text-align: left;
   width: 60%;
   margin: auto;
-  box-shadow: lightgrey 1px 1px 5px;
-  padding-bottom: 10px;
+  box-shadow: grey 1px 1px 5px;
+  padding: 15px 15px;
   background-color: #dddddd;
   line-height: 1.6;
 }
@@ -38,8 +38,7 @@
   margin: auto;
   box-shadow: lightgrey 1px 1px 5px;
   background-color: #dddddd;
-}
-
+  
 body {
   background-color: #494949;
 }
