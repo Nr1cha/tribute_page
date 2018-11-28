@@ -1,3 +1,7 @@
+body {
+  background-color: #494949;
+}
+
 .mainpage {
   width: 75%;
   margin: auto;
@@ -32,17 +36,6 @@
   line-height: 1.6;
 }
 
-.tablequotes {
-  text-align: center;
-  width: 60%;
-  margin: auto;
-  box-shadow: lightgrey 1px 1px 5px;
-  background-color: #dddddd;
-  
-body {
-  background-color: #494949;
-}
-
 div>h1,
 h2 {
   background-color: lightgrey;
@@ -60,6 +53,13 @@ ul {
   padding-left: 0px;
 }
 
-li  {
+li {
   list-style-type: none;
 }
+
+.tablequotes {
+  text-align: center;
+  width: 60%;
+  margin: auto;
+  box-shadow: lightgrey 1px 1px 5px;
+  background-color: #dddddd;
