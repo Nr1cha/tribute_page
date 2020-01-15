@@ -1,1 +1,0 @@
-this is for my current tribute page but updating it and cleaning it up.
