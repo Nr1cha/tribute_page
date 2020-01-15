@@ -33,6 +33,10 @@ body {
   max-width: inherit;
 }
 
+#img-caption {
+  text-align: center;
+}
+
 .timeline {
   text-align: left;
   width: 80%;
